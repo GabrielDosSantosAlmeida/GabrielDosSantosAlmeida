@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Gabriel dos Santos Almeida 🖐️
-- Desenvolvedor de software em formação pela Universidade Federal de Sergipe (UFS), cursando Ciência da Computação. 💻
-- Membro da Liga de Desenvolvimento Web da UFS ([**LAWD**](https://github.com/Lawd-UFS))
+Estou cursando Bacharelado em Ciência da Computação na Universidade Federal de Sergipe (UFS) e atuo principalmente como Desenvolvedor Web, explorando diversas tecnologias para criar soluções inovadoras e funcionais. Atualmente, participo do projeto Observatório de Dados pelo CECH, que busca contribuir para a melhoria da qualidade de vida dos pescadores do Baixo São Francisco. Além disso, estou desenvolvendo o site oficial da Federação Sergipana de Tiro com Arco, projetando uma interface moderna e intuitiva para promover o esporte e facilitar o acesso às informações da federação. Também faço parte da Liga de Desenvolvimento Web, onde aperfeiçoo minhas habilidades em tecnologia, desenvolvimento web e gestão de equipes.
 
 <div>
 <img width="250em" src="https://i.pinimg.com/564x/6b/a6/b0/6ba6b0472f7becc83fe40a276541d61e.jpg"/>
