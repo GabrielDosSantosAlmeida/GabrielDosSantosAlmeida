@@ -3,7 +3,7 @@
 - Membro da Liga de Desenvolvimento Web da UFS ([**LAWD**](https://github.com/Lawd-UFS))
 
 <div>
-<img style="border-radius: 20em;" width="250em" src="https://i.pinimg.com/564x/83/bf/a6/83bfa685c06b805c9d97aab782fd7480.jpg"/>
+<img width="250em" src="https://i.pinimg.com/564x/6b/a6/b0/6ba6b0472f7becc83fe40a276541d61e.jpg"/>
 <img  width="555em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDosSantosAlmeida&layout=compact&langs_count=7&theme=white&count_private=true"/>
 </div>
 
