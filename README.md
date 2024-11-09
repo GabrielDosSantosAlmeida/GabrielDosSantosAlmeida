@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Gabriel dos Santos Almeida 🖐️
 - Desenvolvedor de software em formação pela Universidade Federal de Sergipe (UFS), cursando Ciência da Computação. 💻
-- Membro da Liga de Desenvolvimento Web da UFS [**LAWD**](https://github.com/Lawd-UFS)
+- Membro da Liga de Desenvolvimento Web da UFS ([**LAWD**](https://github.com/Lawd-UFS))
 
 <div>
 <img width="250em" src="https://i.pinimg.com/564x/83/bf/a6/83bfa685c06b805c9d97aab782fd7480.jpg"/>
-<img width="555em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDosSantosAlmeida&layout=compact&langs_count=7&theme=white&count_private=true"/>
+<img style="border-radius: 15px;" width="555em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDosSantosAlmeida&layout=compact&langs_count=7&theme=white&count_private=true"/>
 </div>
 
 ## Onde me encontrar:
