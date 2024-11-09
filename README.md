@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Gabriel dos Santos Almeida 🖐️
+- Desenvolvedor de software em formação pela Universidade Federal de Sergipe (UFS), cursando Ciência da Computação. 💻
+- Membro da Liga de Desenvolvimento Web da UFS [**LAWD**](https://github.com/Lawd-UFS) 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
@@ -18,6 +20,3 @@
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
-
-💻 Desenvolvedor de software em formação pela Universidade Federal de Sergipe (UFS), cursando Ciência da Computação.
-- Membro da Liga de Desenvolvimento Web da UFS (LAWD)
