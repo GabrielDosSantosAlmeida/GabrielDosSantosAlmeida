@@ -2,13 +2,16 @@
 - Desenvolvedor de software em formação pela Universidade Federal de Sergipe (UFS), cursando Ciência da Computação. 💻
 - Membro da Liga de Desenvolvimento Web da UFS [**LAWD**](https://github.com/Lawd-UFS)
 <img width="350em" src="https://i.pinimg.com/564x/83/bf/a6/83bfa685c06b805c9d97aab782fd7480.jpg"/>
+
 ## Onde me encontrar:
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 ## Tecnologias que eu uso no meu dia
+
 <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDosSantosAlmeida&layout=compact&langs_count=7&theme=white&count_private=true"/>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
