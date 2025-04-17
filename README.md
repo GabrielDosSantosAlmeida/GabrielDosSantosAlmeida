@@ -3,12 +3,7 @@
 Sou estudante de Ciência da Computação na UFS e desenvolvedor web com experiência em diversas tecnologias. Participo do projeto Observatório de Dados pelo CECH, contribuindo para melhorias na vida dos pescadores do Baixo São Francisco, e estou desenvolvendo o site oficial da Federação Sergipana de Tiro com Arco, criando uma interface moderna e acessível.
 
 Também sou integrante da Liga de Desenvolvimento Web da UFS ([**LAWD**](https://github.com/Lawd-UFS)), onde colaboro em projetos e aprimoro minhas habilidades em tecnologia, gestão de projetos e de pessoas.
-
-<div>
-  <img width="250em" src="https://i.pinimg.com/564x/6b/a6/b0/6ba6b0472f7becc83fe40a276541d61e.jpg"/>
-  <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aGabrielDosSantosAlmeida&layout=donut.png"/>
-<div>
-  
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar:
