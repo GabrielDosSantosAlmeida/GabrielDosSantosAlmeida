@@ -4,7 +4,7 @@ Sou estudante de Ciência da Computação na UFS e desenvolvedor web com experi�
 
 Também sou integrante da Liga de Desenvolvimento Web da UFS ([**LAWD**](https://github.com/Lawd-UFS)), onde colaboro em projetos e aprimoro minhas habilidades em tecnologia, gestão de projetos e de pessoas.
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDosSantosAlmeida&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar:
 
