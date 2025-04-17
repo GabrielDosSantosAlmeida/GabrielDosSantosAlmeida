@@ -6,8 +6,9 @@ Também sou integrante da Liga de Desenvolvimento Web da UFS ([**LAWD**](https:/
 
 <div>
   <img width="250em" src="https://i.pinimg.com/564x/6b/a6/b0/6ba6b0472f7becc83fe40a276541d61e.jpg"/>
-  <img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDosSantosAlmeida&layout=compact&langs_count=7&theme=white&count_private=true"/>
-</div>
+<div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar:
 
